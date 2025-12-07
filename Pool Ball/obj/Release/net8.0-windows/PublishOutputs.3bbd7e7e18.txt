@@ -1,0 +1,5 @@
+F:\Publish\Pool Ball.exe
+F:\Publish\Pool Ball.dll
+F:\Publish\Pool Ball.deps.json
+F:\Publish\Pool Ball.runtimeconfig.json
+F:\Publish\Pool Ball.pdb

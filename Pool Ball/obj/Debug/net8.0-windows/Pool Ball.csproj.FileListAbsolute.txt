@@ -1,0 +1,36 @@
+F:\Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.exe
+F:\Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.deps.json
+F:\Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.runtimeconfig.json
+F:\Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.dll
+F:\Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.pdb
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool_Ball.ctrlBoolTable.resources
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool_Ball.Form1.resources
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool_Ball.Properties.Resources.resources
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.csproj.GenerateResource.cache
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.AssemblyInfoInputs.cache
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.AssemblyInfo.cs
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.csproj.CoreCompileInputs.cache
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.dll
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\refint\Pool Ball.dll
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.pdb
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.genruntimeconfig.cache
+F:\Pool Ball\Pool Ball\obj\Debug\net8.0-windows\ref\Pool Ball.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.exe
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.deps.json
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.runtimeconfig.json
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\bin\Debug\net8.0-windows\Pool Ball.pdb
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool_Ball.ctrlBoolTable.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool_Ball.Form1.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool_Ball.Properties.Resources.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.csproj.GenerateResource.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.GeneratedMSBuildEditorConfig.editorconfig
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.AssemblyInfoInputs.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.AssemblyInfo.cs
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.csproj.CoreCompileInputs.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\refint\Pool Ball.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.pdb
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\Pool Ball.genruntimeconfig.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Pool Ball\Pool Ball\obj\Debug\net8.0-windows\ref\Pool Ball.dll
